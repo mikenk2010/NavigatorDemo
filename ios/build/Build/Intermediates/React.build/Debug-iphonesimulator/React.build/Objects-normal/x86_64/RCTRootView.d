@@ -1,0 +1,33 @@
+dependencies: \
+  /Users/baonguyen/Projects/reactjs/example1/NavigatorDemo/node_modules/react-native/React/Base/RCTRootView.m \
+  /Users/baonguyen/Projects/reactjs/example1/NavigatorDemo/node_modules/react-native/React/Base/RCTRootView.h \
+  /Users/baonguyen/Projects/reactjs/example1/NavigatorDemo/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/baonguyen/Projects/reactjs/example1/NavigatorDemo/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/baonguyen/Projects/reactjs/example1/NavigatorDemo/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/baonguyen/Projects/reactjs/example1/NavigatorDemo/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/baonguyen/Projects/reactjs/example1/NavigatorDemo/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/baonguyen/Projects/reactjs/example1/NavigatorDemo/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/baonguyen/Projects/reactjs/example1/NavigatorDemo/node_modules/react-native/React/Base/RCTJavaScriptExecutor.h \
+  /Users/baonguyen/Projects/reactjs/example1/NavigatorDemo/node_modules/react-native/React/Base/RCTRootViewDelegate.h \
+  /Users/baonguyen/Projects/reactjs/example1/NavigatorDemo/node_modules/react-native/React/Base/RCTRootViewInternal.h \
+  /Users/baonguyen/Projects/reactjs/example1/NavigatorDemo/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/baonguyen/Projects/reactjs/example1/NavigatorDemo/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/baonguyen/Projects/reactjs/example1/NavigatorDemo/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/baonguyen/Projects/reactjs/example1/NavigatorDemo/node_modules/react-native/React/Base/RCTKeyCommands.h \
+  /Users/baonguyen/Projects/reactjs/example1/NavigatorDemo/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/baonguyen/Projects/reactjs/example1/NavigatorDemo/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
+  /Users/baonguyen/Projects/reactjs/example1/NavigatorDemo/node_modules/react-native/React/Modules/RCTSourceCode.h \
+  /Users/baonguyen/Projects/reactjs/example1/NavigatorDemo/node_modules/react-native/React/Base/RCTTouchHandler.h \
+  /Users/baonguyen/Projects/reactjs/example1/NavigatorDemo/node_modules/react-native/React/Modules/RCTUIManager.h \
+  /Users/baonguyen/Projects/reactjs/example1/NavigatorDemo/node_modules/react-native/React/Views/RCTViewManager.h \
+  /Users/baonguyen/Projects/reactjs/example1/NavigatorDemo/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/baonguyen/Projects/reactjs/example1/NavigatorDemo/node_modules/react-native/React/Layout/Layout.h \
+  /Users/baonguyen/Projects/reactjs/example1/NavigatorDemo/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/baonguyen/Projects/reactjs/example1/NavigatorDemo/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/baonguyen/Projects/reactjs/example1/NavigatorDemo/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/baonguyen/Projects/reactjs/example1/NavigatorDemo/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/baonguyen/Projects/reactjs/example1/NavigatorDemo/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/baonguyen/Projects/reactjs/example1/NavigatorDemo/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/baonguyen/Projects/reactjs/example1/NavigatorDemo/node_modules/react-native/React/Views/RCTView.h \
+  /Users/baonguyen/Projects/reactjs/example1/NavigatorDemo/node_modules/react-native/React/Views/UIView+React.h \
+  /Users/baonguyen/Projects/reactjs/example1/NavigatorDemo/node_modules/react-native/React/Profiler/RCTProfile.h

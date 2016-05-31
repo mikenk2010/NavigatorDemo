@@ -1,0 +1,36 @@
+dependencies: \
+  /Users/baonguyen/Projects/reactjs/example1/NavigatorDemo/node_modules/react-native/React/Modules/RCTUIManager.m \
+  /Users/baonguyen/Projects/reactjs/example1/NavigatorDemo/node_modules/react-native/React/Modules/RCTUIManager.h \
+  /Users/baonguyen/Projects/reactjs/example1/NavigatorDemo/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/baonguyen/Projects/reactjs/example1/NavigatorDemo/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/baonguyen/Projects/reactjs/example1/NavigatorDemo/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/baonguyen/Projects/reactjs/example1/NavigatorDemo/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/baonguyen/Projects/reactjs/example1/NavigatorDemo/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/baonguyen/Projects/reactjs/example1/NavigatorDemo/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/baonguyen/Projects/reactjs/example1/NavigatorDemo/node_modules/react-native/React/Base/RCTJavaScriptExecutor.h \
+  /Users/baonguyen/Projects/reactjs/example1/NavigatorDemo/node_modules/react-native/React/Views/RCTViewManager.h \
+  /Users/baonguyen/Projects/reactjs/example1/NavigatorDemo/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/baonguyen/Projects/reactjs/example1/NavigatorDemo/node_modules/react-native/React/Layout/Layout.h \
+  /Users/baonguyen/Projects/reactjs/example1/NavigatorDemo/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/baonguyen/Projects/reactjs/example1/NavigatorDemo/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/baonguyen/Projects/reactjs/example1/NavigatorDemo/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/baonguyen/Projects/reactjs/example1/NavigatorDemo/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/baonguyen/Projects/reactjs/example1/NavigatorDemo/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/baonguyen/Projects/reactjs/example1/NavigatorDemo/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/baonguyen/Projects/reactjs/example1/NavigatorDemo/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/baonguyen/Projects/reactjs/example1/NavigatorDemo/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/baonguyen/Projects/reactjs/example1/NavigatorDemo/node_modules/react-native/React/Modules/RCTAccessibilityManager.h \
+  /Users/baonguyen/Projects/reactjs/example1/NavigatorDemo/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/baonguyen/Projects/reactjs/example1/NavigatorDemo/node_modules/react-native/React/Views/RCTComponentData.h \
+  /Users/baonguyen/Projects/reactjs/example1/NavigatorDemo/node_modules/react-native/React/Base/RCTModuleData.h \
+  /Users/baonguyen/Projects/reactjs/example1/NavigatorDemo/node_modules/react-native/React/Base/RCTModuleMethod.h \
+  /Users/baonguyen/Projects/reactjs/example1/NavigatorDemo/node_modules/react-native/React/Base/RCTBridgeMethod.h \
+  /Users/baonguyen/Projects/reactjs/example1/NavigatorDemo/node_modules/react-native/React/Base/RCTNullability.h \
+  /Users/baonguyen/Projects/reactjs/example1/NavigatorDemo/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/baonguyen/Projects/reactjs/example1/NavigatorDemo/node_modules/react-native/React/Base/RCTRootView.h \
+  /Users/baonguyen/Projects/reactjs/example1/NavigatorDemo/node_modules/react-native/React/Base/RCTRootViewInternal.h \
+  /Users/baonguyen/Projects/reactjs/example1/NavigatorDemo/node_modules/react-native/React/Views/RCTScrollableProtocol.h \
+  /Users/baonguyen/Projects/reactjs/example1/NavigatorDemo/node_modules/react-native/React/Views/RCTShadowView.h \
+  /Users/baonguyen/Projects/reactjs/example1/NavigatorDemo/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/baonguyen/Projects/reactjs/example1/NavigatorDemo/node_modules/react-native/React/Views/RCTView.h \
+  /Users/baonguyen/Projects/reactjs/example1/NavigatorDemo/node_modules/react-native/React/Views/UIView+React.h

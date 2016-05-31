@@ -1,0 +1,20 @@
+dependencies: \
+  /Users/baonguyen/Projects/reactjs/example1/NavigatorDemo/node_modules/react-native/React/Executors/RCTJSCExecutor.m \
+  /Users/baonguyen/Projects/reactjs/example1/NavigatorDemo/node_modules/react-native/React/Executors/RCTJSCExecutor.h \
+  /Users/baonguyen/Projects/reactjs/example1/NavigatorDemo/node_modules/react-native/React/Base/RCTJavaScriptExecutor.h \
+  /Users/baonguyen/Projects/reactjs/example1/NavigatorDemo/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/baonguyen/Projects/reactjs/example1/NavigatorDemo/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/baonguyen/Projects/reactjs/example1/NavigatorDemo/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/baonguyen/Projects/reactjs/example1/NavigatorDemo/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/baonguyen/Projects/reactjs/example1/NavigatorDemo/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/baonguyen/Projects/reactjs/example1/NavigatorDemo/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/baonguyen/Projects/reactjs/example1/NavigatorDemo/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/baonguyen/Projects/reactjs/example1/NavigatorDemo/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/baonguyen/Projects/reactjs/example1/NavigatorDemo/node_modules/react-native/React/Modules/RCTDevMenu.h \
+  /Users/baonguyen/Projects/reactjs/example1/NavigatorDemo/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/baonguyen/Projects/reactjs/example1/NavigatorDemo/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/baonguyen/Projects/reactjs/example1/NavigatorDemo/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
+  /Users/baonguyen/Projects/reactjs/example1/NavigatorDemo/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/baonguyen/Projects/reactjs/example1/NavigatorDemo/node_modules/react-native/React/Profiler/RCTJSCProfiler.h \
+  /Users/baonguyen/Projects/reactjs/example1/NavigatorDemo/node_modules/react-native/React/Modules/RCTRedBox.h \
+  /Users/baonguyen/Projects/reactjs/example1/NavigatorDemo/node_modules/react-native/React/Modules/RCTSourceCode.h

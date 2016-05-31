@@ -3,6 +3,8 @@
 
 Navigator Demo reader for iOS and Android, made with [React-Native](https://github.com/facebook/react-native).
 
+## iOS App Demo
+![iOS Preview Gif](http://i.imgur.com/f7oeTJi.gif "")
 
 ##Features/Components
 - Uses React Native 0.20
